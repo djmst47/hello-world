@@ -1,1 +1,1 @@
-runas /netonly /user:andrew\dmenicuc "mmc /server=andrew.ad.cmu.edu"
+runas /netonly /user:xxx\xxxx "mmc /server=xxx.xxx.edu"
